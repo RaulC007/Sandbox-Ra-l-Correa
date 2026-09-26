@@ -37,3 +37,8 @@ Para el inciso C cree una linea de texto de prueba para hacerle commit y luego p
 Para el inciso D, utilize el otro archivo md para los cambios, haciendo unos en una branch y unos distintos en otra, creando el merge conflict, luego la arregle manualmente eliminado una de las dos, para luego poder hacer el segundo mwerge correctamente.
 
 Para el inciso E, borre la copia local de mi reposotorio, para luego clonarlo desde github, al abrirlo nuevamente podia visualizar todos los commits que habia realizado antes.
+
+# Reto 4
+
+Abri el repositorio y simplemente vi lo que incluia, en este caso yo ya estoy algo relacionado con los repositorios de github, pero con la creacipon, edición o publicaciones de estos.
+Yo los usaba porque eran un lugar donde encontraba mods o descargas para juegos de forma gratuita donde normalmente incluyen un tutorial para la instalación y uso, por lo que era normal para mi usar github pero solo para descargar y usar addons en juegos.
