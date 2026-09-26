@@ -42,3 +42,8 @@ Para el inciso E, borre la copia local de mi reposotorio, para luego clonarlo de
 
 Abri el repositorio y simplemente vi lo que incluia, en este caso yo ya estoy algo relacionado con los repositorios de github, pero con la creacipon, edición o publicaciones de estos.
 Yo los usaba porque eran un lugar donde encontraba mods o descargas para juegos de forma gratuita donde normalmente incluyen un tutorial para la instalación y uso, por lo que era normal para mi usar github pero solo para descargar y usar addons en juegos.
+
+# Reto 5
+Texto de prueba para el reto
+
+No sabia exactamente como hacerlo, la IA me ayudo con eso, me dijo que abriendo la terminal y escribiendo ciertos comandos podria hacer commit y luego hacer push, pero lo intente y no funciono, y tampoco entendi muy bien para que era cada comando que tenia que usar, asi que lo subi desde Github Desktop.
