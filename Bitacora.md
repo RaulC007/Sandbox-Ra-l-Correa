@@ -35,3 +35,5 @@ Para el inciso B, lo hice de forma "accidental" mientras hacia parte del reto 1,
 Para el inciso C cree una linea de texto de prueba para hacerle commit y luego push a mi repo, para luevo revertirlo y hacerle push a ese commit donde lo revierto.
 
 Para el inciso D, utilize el otro archivo md para los cambios, haciendo unos en una branch y unos distintos en otra, creando el merge conflict, luego la arregle manualmente eliminado una de las dos, para luego poder hacer el segundo mwerge correctamente.
+
+Para el inciso E, borre la copia local de mi reposotorio, para luego clonarlo desde github, al abrirlo nuevamente podia visualizar todos los commits que habia realizado antes.
