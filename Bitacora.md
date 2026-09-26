@@ -20,4 +20,10 @@ Sobre el branch y el merge aun tengo alguna dudas, o cosas que no me quedan clar
 
 Lo pienso de igual forma como si fuese un video juego, al crear un branch, es como si creara una copia de seguridad de un archivo de guardado, puedo entrar y hacer todos los cambios que quiera, pero el original no va a pasar por esos mismo cambios, hasta que decida hacerlos permanentes (con merge), y las dudas que aun me quedan son un poco más sobre la practica, a la hora de crear dos branches y haces cambios distintos en ambas, al tratar de hacer merge al main, surge el error de que no se pueden sobreescribir porque a veces la información esta escrita en las mismas lineas y no sabe cual tomar, en estos casos, hay alguna forma de evitarlo?
 
-Esto es info de prueba para descartar
+# Reto 3
+
+- A. Descartar cambios sin hacer commit
+- B. Deshacer un commit recién hecho (antes de push)
+- C. Revertir un commit ya subido a GitHub
+- D. Provocarte un conflicto y resolverlo manualmente
+- E. Borrar tu repo local y recuperarlo desde GitHub con clone
