@@ -33,3 +33,5 @@ Para el insciso A cree una linea de texto de prueba que guarde y luego descarte,
 Para el inciso B, lo hice de forma "accidental" mientras hacia parte del reto 1, ya que hice un commit, pero no me habia percatado de que tenia un error en el commit, por lo que reverti y tambien, este concepto me queda muy claro.
 
 Para el inciso C cree una linea de texto de prueba para hacerle commit y luego push a mi repo, para luevo revertirlo y hacerle push a ese commit donde lo revierto.
+
+Para el inciso D, utilize el otro archivo md para los cambios, haciendo unos en una branch y unos distintos en otra, creando el merge conflict, luego la arregle manualmente eliminado una de las dos, para luego poder hacer el segundo mwerge correctamente.
