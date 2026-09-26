@@ -27,3 +27,5 @@ Lo pienso de igual forma como si fuese un video juego, al crear un branch, es co
 - C. Revertir un commit ya subido a GitHub
 - D. Provocarte un conflicto y resolverlo manualmente
 - E. Borrar tu repo local y recuperarlo desde GitHub con clone
+
+Para el insciso A cree una linea de texto de prueba que guarde y luego descarte, esto lo entiendo perfectamente, simplente es revertir el ultimo cambio o cambios que no se ha convertido en commit.
