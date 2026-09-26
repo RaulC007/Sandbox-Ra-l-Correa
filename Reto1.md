@@ -8,4 +8,9 @@ En mi opinion los commits es algo que ya entendí bastante bien y no tengo más 
 
 No estoy completamente seguro si hice correctamente el punto "Uno que tenga dos archivos modificados al mismo tiempo", hice un commit con cambios en ambos documentos, eso fue lo que entendí.
 
-Cambio de prueba del commit 4
+## Cambio de prueba del commit 4
+
+# Reto 2
+
+Cambios para prueba 1
+
