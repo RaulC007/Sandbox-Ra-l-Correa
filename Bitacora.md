@@ -31,3 +31,5 @@ Lo pienso de igual forma como si fuese un video juego, al crear un branch, es co
 Para el insciso A cree una linea de texto de prueba que guarde y luego descarte, esto lo entiendo perfectamente, simplente es revertir el ultimo cambio o cambios que no se ha convertido en commit.
 
 Para el inciso B, lo hice de forma "accidental" mientras hacia parte del reto 1, ya que hice un commit, pero no me habia percatado de que tenia un error en el commit, por lo que reverti y tambien, este concepto me queda muy claro.
+
+Cambios para inciso B
