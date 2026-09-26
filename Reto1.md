@@ -7,3 +7,5 @@ Una forma en la que los veo, es similar a como funcionan los archivos de guardad
 En mi opinion los commits es algo que ya entendí bastante bien y no tengo más dudas sobre eso.
 
 No estoy completamente seguro si hice correctamente el punto "Uno que tenga dos archivos modificados al mismo tiempo", hice un commit con cambios en ambos documentos, eso fue lo que entendí.
+
+Cambio de prueba del commit 4
